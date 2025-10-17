@@ -1,0 +1,60 @@
+Epoch 1/10
+------------------------------
+train Loss: 0.3750 Acc: 0.8558                                                                                                     
+val Loss: 0.2368 Acc: 0.9269
+💾 Checkpoint saved: D:\B.Tech\SEM 8\EfficientNetB0\checkpoints\efficientnetb0_epoch_1.pth
+
+Epoch 2/10
+------------------------------
+train Loss: 0.2613 Acc: 0.9052
+val Loss: 0.1845 Acc: 0.9460                                                                                                       
+💾 Checkpoint saved: D:\B.Tech\SEM 8\EfficientNetB0\checkpoints\efficientnetb0_epoch_2.pth
+
+Epoch 3/10
+------------------------------
+train Loss: 0.2341 Acc: 0.9144                                                                                                     
+val Loss: 0.1590 Acc: 0.9534                                                                                                       
+💾 Checkpoint saved: D:\B.Tech\SEM 8\EfficientNetB0\checkpoints\efficientnetb0_epoch_3.pth
+
+Epoch 4/10
+------------------------------
+train Loss: 0.2152 Acc: 0.9195                                                                                                     
+val Loss: 0.1515 Acc: 0.9514                                                                                                       
+💾 Checkpoint saved: D:\B.Tech\SEM 8\EfficientNetB0\checkpoints\efficientnetb0_epoch_4.pth
+
+Epoch 5/10
+------------------------------
+train Loss: 0.2123 Acc: 0.9207                                                                                                     
+val Loss: 0.1412 Acc: 0.9601                                                                                                       
+💾 Checkpoint saved: D:\B.Tech\SEM 8\EfficientNetB0\checkpoints\efficientnetb0_epoch_5.pth
+
+Epoch 6/10
+------------------------------
+train Loss: 0.2041 Acc: 0.9231                                                                                                     
+val Loss: 0.1442 Acc: 0.9577                                                                                                       
+💾 Checkpoint saved: D:\B.Tech\SEM 8\EfficientNetB0\checkpoints\efficientnetb0_epoch_6.pth
+
+Epoch 7/10
+------------------------------
+train Loss: 0.1949 Acc: 0.9267                                                                                                     
+val Loss: 0.1277 Acc: 0.9609                                                                                                       
+💾 Checkpoint saved: D:\B.Tech\SEM 8\EfficientNetB0\checkpoints\efficientnetb0_epoch_7.pth
+
+Epoch 8/10
+------------------------------
+train Loss: 0.1955 Acc: 0.9261                                                                                                     
+val Loss: 0.1224 Acc: 0.9643                                                                                                       
+💾 Checkpoint saved: D:\B.Tech\SEM 8\EfficientNetB0\checkpoints\efficientnetb0_epoch_8.pth
+
+Epoch 9/10
+------------------------------
+train Loss: 0.1896 Acc: 0.9286                                                                                                     
+val Loss: 0.1200 Acc: 0.9634                                                                                                       
+💾 Checkpoint saved: D:\B.Tech\SEM 8\EfficientNetB0\checkpoints\efficientnetb0_epoch_9.pth
+
+Epoch 10/10
+------------------------------
+train Loss: 0.1899 Acc: 0.9278                                                                                                     
+val Loss: 0.1131 Acc: 0.9666                                                                                                       
+💾 Checkpoint saved: D:\B.Tech\SEM 8\EfficientNetB0\checkpoints\efficientnetb0_epoch_10.pth
+🎯 Training complete.
