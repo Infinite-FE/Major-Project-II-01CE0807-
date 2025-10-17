@@ -1,0 +1,60 @@
+Epoch 1/10
+------------------------------
+train Loss: 0.2828 Acc: 0.9016
+val Loss: 0.1555 Acc: 0.9490
+💾 Checkpoint saved: D:\B.Tech\SEM 8\ResNet50\checkpoints\resnet50_epoch_1.pth
+
+Epoch 2/10
+------------------------------
+train Loss: 0.1793 Acc: 0.9398                                                                                                     
+val Loss: 0.1279 Acc: 0.9598
+💾 Checkpoint saved: D:\B.Tech\SEM 8\ResNet50\checkpoints\resnet50_epoch_2.pth
+
+Epoch 3/10
+------------------------------
+train Loss: 0.1563 Acc: 0.9454
+val Loss: 0.1050 Acc: 0.9666                                                                                                       
+💾 Checkpoint saved: D:\B.Tech\SEM 8\ResNet50\checkpoints\resnet50_epoch_3.pth
+
+Epoch 4/10
+------------------------------
+train Loss: 0.1447 Acc: 0.9516                                                                                                     
+val Loss: 0.1003 Acc: 0.9669                                                                                                       
+💾 Checkpoint saved: D:\B.Tech\SEM 8\ResNet50\checkpoints\resnet50_epoch_4.pth
+
+Epoch 5/10
+------------------------------
+train Loss: 0.1404 Acc: 0.9521
+val Loss: 0.0924 Acc: 0.9709
+💾 Checkpoint saved: D:\B.Tech\SEM 8\ResNet50\checkpoints\resnet50_epoch_5.pth
+
+Epoch 6/10
+------------------------------
+train Loss: 0.1353 Acc: 0.9520
+val Loss: 0.0903 Acc: 0.9709
+💾 Checkpoint saved: D:\B.Tech\SEM 8\ResNet50\checkpoints\resnet50_epoch_6.pth
+
+Epoch 7/10
+------------------------------
+train Loss: 0.1302 Acc: 0.9547
+val Loss: 0.0847 Acc: 0.9736
+💾 Checkpoint saved: D:\B.Tech\SEM 8\ResNet50\checkpoints\resnet50_epoch_7.pth
+
+Epoch 8/10
+------------------------------
+train Loss: 0.1320 Acc: 0.9529
+val Loss: 0.0848 Acc: 0.9730
+💾 Checkpoint saved: D:\B.Tech\SEM 8\ResNet50\checkpoints\resnet50_epoch_8.pth
+
+Epoch 9/10
+------------------------------
+train Loss: 0.1289 Acc: 0.9549                                                                                                     
+val Loss: 0.0828 Acc: 0.9738
+💾 Checkpoint saved: D:\B.Tech\SEM 8\ResNet50\checkpoints\resnet50_epoch_9.pth
+
+Epoch 10/10
+------------------------------
+train Loss: 0.1212 Acc: 0.9581                                                                                                     
+val Loss: 0.0755 Acc: 0.9771                                                                                                       
+💾 Checkpoint saved: D:\B.Tech\SEM 8\ResNet50\checkpoints\resnet50_epoch_10.pth
+🎯 Training complete.
