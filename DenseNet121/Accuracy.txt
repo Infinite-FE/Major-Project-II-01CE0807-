@@ -1,0 +1,60 @@
+Epoch 1/10
+------------------------------
+train Loss: 0.3161 Acc: 0.8871
+val Loss: 0.1739 Acc: 0.9536       
+💾 Checkpoint saved: D:\B.Tech\SEM 8\DenseNet121\checkpoints\densenet121_epoch_1.pth
+
+Epoch 2/10
+------------------------------
+train Loss: 0.1870 Acc: 0.9395
+val Loss: 0.1292 Acc: 0.9626                                                                                                       
+💾 Checkpoint saved: D:\B.Tech\SEM 8\DenseNet121\checkpoints\densenet121_epoch_2.pth
+
+Epoch 3/10
+------------------------------
+train Loss: 0.1602 Acc: 0.9458
+val Loss: 0.1113 Acc: 0.9677
+💾 Checkpoint saved: D:\B.Tech\SEM 8\DenseNet121\checkpoints\densenet121_epoch_3.pth
+
+Epoch 4/10
+------------------------------
+train Loss: 0.1461 Acc: 0.9509
+val Loss: 0.0992 Acc: 0.9725
+💾 Checkpoint saved: D:\B.Tech\SEM 8\DenseNet121\checkpoints\densenet121_epoch_4.pth
+
+Epoch 5/10
+------------------------------
+train Loss: 0.1395 Acc: 0.9532
+val Loss: 0.0901 Acc: 0.9742
+💾 Checkpoint saved: D:\B.Tech\SEM 8\DenseNet121\checkpoints\densenet121_epoch_5.pth
+
+Epoch 6/10
+------------------------------
+train Loss: 0.1342 Acc: 0.9550
+val Loss: 0.0845 Acc: 0.9755                                                                                                       
+💾 Checkpoint saved: D:\B.Tech\SEM 8\DenseNet121\checkpoints\densenet121_epoch_6.pth
+
+Epoch 7/10
+------------------------------
+train Loss: 0.1284 Acc: 0.9551                                                                                                     
+val Loss: 0.0837 Acc: 0.9759                                                                                                       
+💾 Checkpoint saved: D:\B.Tech\SEM 8\DenseNet121\checkpoints\densenet121_epoch_7.pth
+
+Epoch 8/10
+------------------------------
+train Loss: 0.1252 Acc: 0.9577                                                                                                     
+val Loss: 0.0901 Acc: 0.9726                                                                                                       
+💾 Checkpoint saved: D:\B.Tech\SEM 8\DenseNet121\checkpoints\densenet121_epoch_8.pth
+
+Epoch 9/10
+------------------------------
+train Loss: 0.1266 Acc: 0.9563                                                                                                     
+val Loss: 0.0778 Acc: 0.9774                                                                                                       
+💾 Checkpoint saved: D:\B.Tech\SEM 8\DenseNet121\checkpoints\densenet121_epoch_9.pth
+
+Epoch 10/10
+------------------------------
+train Loss: 0.1230 Acc: 0.9574                                                                                                     
+val Loss: 0.0788 Acc: 0.9763                                                                                                       
+💾 Checkpoint saved: D:\B.Tech\SEM 8\DenseNet121\checkpoints\densenet121_epoch_10.pth
+🎯 Training complete.
