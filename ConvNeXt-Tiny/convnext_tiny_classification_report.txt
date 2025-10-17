@@ -1,0 +1,10 @@
+=== ConvNeXt-Tiny Classification Report ===
+
+              precision    recall  f1-score   support
+
+        fake     0.9893    0.9686    0.9788      2767
+        real     0.9816    0.9938    0.9877      4683
+
+    accuracy                         0.9844      7450
+   macro avg     0.9855    0.9812    0.9833      7450
+weighted avg     0.9845    0.9844    0.9844      7450
