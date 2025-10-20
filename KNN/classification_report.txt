@@ -1,0 +1,11 @@
+Classification Report - KNN
+=====================================
+
+              precision    recall  f1-score   support
+
+        fake       0.51      0.19      0.28      2767
+        real       0.65      0.89      0.75      4683
+
+    accuracy                           0.63      7450
+   macro avg       0.58      0.54      0.52      7450
+weighted avg       0.60      0.63      0.58      7450
