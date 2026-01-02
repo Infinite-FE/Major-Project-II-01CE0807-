@@ -1,0 +1,60 @@
+Epoch 1/10
+------------------------------
+train Loss: 0.2729 Acc: 0.9061                                                                                                     
+val Loss: 0.1456 Acc: 0.9581
+💾 Checkpoint saved: D:\B.Tech\SEM 8\MobileNetV3\checkpoints\mobilenetv3_epoch_1.pth
+
+Epoch 2/10
+------------------------------
+train Loss: 0.1653 Acc: 0.9439                                                                                                     
+val Loss: 0.1128 Acc: 0.9655                                                                                                       
+💾 Checkpoint saved: D:\B.Tech\SEM 8\MobileNetV3\checkpoints\mobilenetv3_epoch_2.pth
+
+Epoch 3/10
+------------------------------
+train Loss: 0.1443 Acc: 0.9502                                                                                                     
+val Loss: 0.0976 Acc: 0.9699                                                                                                       
+💾 Checkpoint saved: D:\B.Tech\SEM 8\MobileNetV3\checkpoints\mobilenetv3_epoch_3.pth
+
+Epoch 4/10
+------------------------------
+train Loss: 0.1353 Acc: 0.9512                                                                                                     
+val Loss: 0.0893 Acc: 0.9722                                                                                                       
+💾 Checkpoint saved: D:\B.Tech\SEM 8\MobileNetV3\checkpoints\mobilenetv3_epoch_4.pth
+
+Epoch 5/10
+------------------------------
+train Loss: 0.1298 Acc: 0.9536                                                                                                     
+val Loss: 0.0862 Acc: 0.9723                                                                                                       
+💾 Checkpoint saved: D:\B.Tech\SEM 8\MobileNetV3\checkpoints\mobilenetv3_epoch_5.pth
+
+Epoch 6/10
+------------------------------
+train Loss: 0.1312 Acc: 0.9547                                                                                                     
+val Loss: 0.0822 Acc: 0.9731                                                                                                       
+💾 Checkpoint saved: D:\B.Tech\SEM 8\MobileNetV3\checkpoints\mobilenetv3_epoch_6.pth
+
+Epoch 7/10
+------------------------------
+train Loss: 0.1258 Acc: 0.9549                                                                                                     
+val Loss: 0.0796 Acc: 0.9743                                                                                                       
+💾 Checkpoint saved: D:\B.Tech\SEM 8\MobileNetV3\checkpoints\mobilenetv3_epoch_7.pth
+
+Epoch 8/10
+------------------------------
+train Loss: 0.1223 Acc: 0.9571                                                                                                     
+val Loss: 0.0790 Acc: 0.9736                                                                                                       
+💾 Checkpoint saved: D:\B.Tech\SEM 8\MobileNetV3\checkpoints\mobilenetv3_epoch_8.pth
+
+Epoch 9/10
+------------------------------
+train Loss: 0.1200 Acc: 0.9573                                                                                                     
+val Loss: 0.0745 Acc: 0.9754                                                                                                       
+💾 Checkpoint saved: D:\B.Tech\SEM 8\MobileNetV3\checkpoints\mobilenetv3_epoch_9.pth
+
+Epoch 10/10
+------------------------------
+train Loss: 0.1206 Acc: 0.9565                                                                                                     
+val Loss: 0.0746 Acc: 0.9750                                                                                                       
+💾 Checkpoint saved: D:\B.Tech\SEM 8\MobileNetV3\checkpoints\mobilenetv3_epoch_10.pth
+🎯 Training complete.
