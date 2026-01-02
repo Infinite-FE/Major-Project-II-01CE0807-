@@ -1,0 +1,59 @@
+Epoch 1/10
+------------------------------
+train Loss: 0.0297 Acc: 0.9918
+val   Loss: 0.0269 Acc: 0.9941
+💾 Checkpoint saved: D:\B.Tech\SEM 8\SVM\checkpoints\svm_epoch_1.joblib
+
+Epoch 2/10
+------------------------------
+train Loss: 0.0298 Acc: 0.9918
+val   Loss: 0.0269 Acc: 0.9941
+💾 Checkpoint saved: D:\B.Tech\SEM 8\SVM\checkpoints\svm_epoch_2.joblib
+
+Epoch 3/10
+------------------------------
+train Loss: 0.0297 Acc: 0.9918
+val   Loss: 0.0269 Acc: 0.9941
+💾 Checkpoint saved: D:\B.Tech\SEM 8\SVM\checkpoints\svm_epoch_3.joblib
+
+Epoch 4/10
+------------------------------
+train Loss: 0.0297 Acc: 0.9918
+val   Loss: 0.0269 Acc: 0.9941
+💾 Checkpoint saved: D:\B.Tech\SEM 8\SVM\checkpoints\svm_epoch_4.joblib
+
+Epoch 5/10
+------------------------------
+train Loss: 0.0298 Acc: 0.9918
+val   Loss: 0.0269 Acc: 0.9941
+💾 Checkpoint saved: D:\B.Tech\SEM 8\SVM\checkpoints\svm_epoch_5.joblib
+
+Epoch 6/10
+------------------------------
+train Loss: 0.0297 Acc: 0.9918
+val   Loss: 0.0269 Acc: 0.9941
+💾 Checkpoint saved: D:\B.Tech\SEM 8\SVM\checkpoints\svm_epoch_6.joblib
+
+Epoch 7/10
+------------------------------
+train Loss: 0.0298 Acc: 0.9918
+val   Loss: 0.0269 Acc: 0.9941
+💾 Checkpoint saved: D:\B.Tech\SEM 8\SVM\checkpoints\svm_epoch_7.joblib
+
+Epoch 8/10
+------------------------------
+train Loss: 0.0297 Acc: 0.9918
+val   Loss: 0.0269 Acc: 0.9941
+💾 Checkpoint saved: D:\B.Tech\SEM 8\SVM\checkpoints\svm_epoch_8.joblib
+
+Epoch 9/10
+------------------------------
+train Loss: 0.0298 Acc: 0.9918
+val   Loss: 0.0269 Acc: 0.9941
+💾 Checkpoint saved: D:\B.Tech\SEM 8\SVM\checkpoints\svm_epoch_8.joblib
+
+Epoch 10/10
+------------------------------
+train Loss: 0.0297 Acc: 0.9918
+val   Loss: 0.0269 Acc: 0.9941
+💾 Checkpoint saved: D:\B.Tech\SEM 8\SVM\checkpoints\svm_epoch_8.joblib
