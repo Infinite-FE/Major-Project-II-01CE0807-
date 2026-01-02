@@ -1,0 +1,60 @@
+Epoch 1/10
+------------------------------
+train Loss: 0.0000 Acc: 1.0000
+val   Loss: 1.3514 Acc: 0.9052
+💾 Checkpoint saved: D:\B.Tech\SEM 8\KNN\checkpoints\knn_epoch_1.joblib
+
+Epoch 2/10
+------------------------------
+train Loss: 0.0000 Acc: 1.0000
+val   Loss: 1.4147 Acc: 0.9084
+💾 Checkpoint saved: D:\B.Tech\SEM 8\KNN\checkpoints\knn_epoch_2.joblib
+
+Epoch 3/10
+------------------------------
+train Loss: 0.0000 Acc: 1.0000
+val   Loss: 1.2972 Acc: 0.9062
+💾 Checkpoint saved: D:\B.Tech\SEM 8\KNN\checkpoints\knn_epoch_3.joblib
+
+Epoch 4/10
+------------------------------
+train Loss: 0.0000 Acc: 1.0000
+val   Loss: 1.3007 Acc: 0.9111
+💾 Checkpoint saved: D:\B.Tech\SEM 8\KNN\checkpoints\knn_epoch_4.joblib
+
+Epoch 5/10
+------------------------------
+train Loss: 0.0000 Acc: 1.0000
+val   Loss: 1.2460 Acc: 0.9155
+💾 Checkpoint saved: D:\B.Tech\SEM 8\KNN\checkpoints\knn_epoch_5.joblib
+
+Epoch 6/10
+------------------------------
+train Loss: 0.0000 Acc: 1.0000
+val   Loss: 1.2612 Acc: 0.9167
+💾 Checkpoint saved: D:\B.Tech\SEM 8\KNN\checkpoints\knn_epoch_6.joblib
+
+Epoch 7/10
+------------------------------
+train Loss: 0.0000 Acc: 1.0000
+val   Loss: 1.2517 Acc: 0.9099
+💾 Checkpoint saved: D:\B.Tech\SEM 8\KNN\checkpoints\knn_epoch_7.joblib
+
+Epoch 8/10
+------------------------------
+train Loss: 0.0000 Acc: 1.0000
+val   Loss: 1.1818 Acc: 0.9140
+💾 Checkpoint saved: D:\B.Tech\SEM 8\KNN\checkpoints\knn_epoch_8.joblib
+
+Epoch 9/10
+------------------------------
+train Loss: 0.0000 Acc: 1.0000
+val   Loss: 1.3409 Acc: 0.9078
+💾 Checkpoint saved: D:\B.Tech\SEM 8\KNN\checkpoints\knn_epoch_9.joblib
+
+Epoch 10/10
+------------------------------
+train Loss: 0.0000 Acc: 1.0000
+val   Loss: 1.1669 Acc: 0.9144
+💾 Checkpoint saved: D:\B.Tech\SEM 8\KNN\checkpoints\knn_epoch_10.joblib
+🎯 Training complete.
