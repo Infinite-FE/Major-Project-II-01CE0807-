@@ -1,0 +1,60 @@
+Epoch 1/10
+------------------------------
+train Loss: 0.0957 Acc: 0.9769
+val Loss: 0.1907 Acc: 0.9748
+💾 Checkpoint saved: D:\B.Tech\SEM 8\Decision Trees\checkpoints\decision_tree_epoch_1.joblib
+
+Epoch 2/10
+------------------------------
+train Loss: 0.0957 Acc: 0.9769
+val Loss: 0.2014 Acc: 0.9743
+💾 Checkpoint saved: D:\B.Tech\SEM 8\Decision Trees\checkpoints\decision_tree_epoch_2.joblib
+
+Epoch 3/10
+------------------------------
+train Loss: 0.0957 Acc: 0.9769
+val Loss: 0.2057 Acc: 0.9743
+💾 Checkpoint saved: D:\B.Tech\SEM 8\Decision Trees\checkpoints\decision_tree_epoch_3.joblib
+
+Epoch 4/10
+------------------------------
+train Loss: 0.0957 Acc: 0.9769
+val Loss: 0.1907 Acc: 0.9748
+💾 Checkpoint saved: D:\B.Tech\SEM 8\Decision Trees\checkpoints\decision_tree_epoch_4.joblib
+
+Epoch 5/10
+------------------------------
+train Loss: 0.0957 Acc: 0.9769
+val Loss: 0.1956 Acc: 0.9747
+💾 Checkpoint saved: D:\B.Tech\SEM 8\Decision Trees\checkpoints\decision_tree_epoch_5.joblib
+
+Epoch 6/10
+------------------------------
+train Loss: 0.0957 Acc: 0.9769
+val Loss: 0.1711 Acc: 0.9755
+💾 Checkpoint saved: D:\B.Tech\SEM 8\Decision Trees\checkpoints\decision_tree_epoch_6.joblib
+
+Epoch 7/10
+------------------------------
+train Loss: 0.0957 Acc: 0.9769
+val Loss: 0.1956 Acc: 0.9747
+💾 Checkpoint saved: D:\B.Tech\SEM 8\Decision Trees\checkpoints\decision_tree_epoch_7.joblib
+
+Epoch 8/10
+------------------------------
+train Loss: 0.0957 Acc: 0.9769
+val Loss: 0.1903 Acc: 0.9750
+💾 Checkpoint saved: D:\B.Tech\SEM 8\Decision Trees\checkpoints\decision_tree_epoch_8.joblib
+
+Epoch 9/10
+------------------------------
+train Loss: 0.0957 Acc: 0.9769
+val Loss: 0.1903 Acc: 0.9750
+💾 Checkpoint saved: D:\B.Tech\SEM 8\Decision Trees\checkpoints\decision_tree_epoch_9.joblib
+
+Epoch 10/10
+------------------------------
+train Loss: 0.0957 Acc: 0.9769
+val Loss: 0.1955 Acc: 0.9747
+💾 Checkpoint saved: D:\B.Tech\SEM 8\Decision Trees\checkpoints\decision_tree_epoch_10.joblib
+🎯 Training complete.
