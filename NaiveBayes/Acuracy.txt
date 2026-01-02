@@ -1,0 +1,60 @@
+Epoch 1/10
+------------------------------
+train Loss: 7.6077 Acc: 0.7866
+val   Loss: 7.5855 Acc: 0.7876
+💾 Checkpoint saved: D:\B.Tech\SEM 8\NaiveBayes\checkpoints\naivebayes_epoch_1.joblib
+
+Epoch 2/10
+------------------------------
+train Loss: 7.6077 Acc: 0.7866
+val   Loss: 7.5855 Acc: 0.7876
+💾 Checkpoint saved: D:\B.Tech\SEM 8\NaiveBayes\checkpoints\naivebayes_epoch_2.joblib
+
+Epoch 3/10
+------------------------------
+train Loss: 7.6077 Acc: 0.7866
+val   Loss: 7.5855 Acc: 0.7876
+💾 Checkpoint saved: D:\B.Tech\SEM 8\NaiveBayes\checkpoints\naivebayes_epoch_3.joblib
+
+Epoch 4/10
+------------------------------
+train Loss: 7.6077 Acc: 0.7866
+val   Loss: 7.5855 Acc: 0.7876
+💾 Checkpoint saved: D:\B.Tech\SEM 8\NaiveBayes\checkpoints\naivebayes_epoch_4.joblib
+
+Epoch 5/10
+------------------------------
+train Loss: 7.6077 Acc: 0.7866
+val   Loss: 7.5855 Acc: 0.7876
+💾 Checkpoint saved: D:\B.Tech\SEM 8\NaiveBayes\checkpoints\naivebayes_epoch_5.joblib
+
+Epoch 6/10
+------------------------------
+train Loss: 7.6077 Acc: 0.7866
+val   Loss: 7.5855 Acc: 0.7876
+💾 Checkpoint saved: D:\B.Tech\SEM 8\NaiveBayes\checkpoints\naivebayes_epoch_6.joblib
+
+Epoch 7/10
+------------------------------
+train Loss: 7.6077 Acc: 0.7866
+val   Loss: 7.5855 Acc: 0.7876
+💾 Checkpoint saved: D:\B.Tech\SEM 8\NaiveBayes\checkpoints\naivebayes_epoch_7.joblib
+
+Epoch 8/10
+------------------------------
+train Loss: 7.6077 Acc: 0.7866
+val   Loss: 7.5855 Acc: 0.7876
+💾 Checkpoint saved: D:\B.Tech\SEM 8\NaiveBayes\checkpoints\naivebayes_epoch_8.joblib
+
+Epoch 9/10
+------------------------------
+train Loss: 7.6077 Acc: 0.7866
+val   Loss: 7.5855 Acc: 0.7876
+💾 Checkpoint saved: D:\B.Tech\SEM 8\NaiveBayes\checkpoints\naivebayes_epoch_9.joblib
+
+Epoch 10/10
+------------------------------
+train Loss: 7.6077 Acc: 0.7866
+val   Loss: 7.5855 Acc: 0.7876
+💾 Checkpoint saved: D:\B.Tech\SEM 8\NaiveBayes\checkpoints\naivebayes_epoch_10.joblib
+🎯 Training complete.
